@@ -1,0 +1,48 @@
+C:\College Project\siKecil\obj\Debug\siKecil.csproj.AssemblyReference.cache
+C:\College Project\siKecil\obj\Debug\LoginView.g.cs
+C:\College Project\siKecil\obj\Debug\MainWindow.g.cs
+C:\College Project\siKecil\obj\Debug\ProfileView.g.cs
+C:\College Project\siKecil\obj\Debug\SignupView.g.cs
+C:\College Project\siKecil\obj\Debug\App.g.cs
+C:\College Project\siKecil\obj\Debug\siKecil_MarkupCompile.cache
+C:\College Project\siKecil\obj\Debug\siKecil_MarkupCompile.lref
+C:\College Project\siKecil\bin\Debug\siKecil.exe.config
+C:\College Project\siKecil\bin\Debug\siKecil.exe
+C:\College Project\siKecil\bin\Debug\siKecil.pdb
+C:\College Project\siKecil\bin\Debug\Newtonsoft.Json.dll
+C:\College Project\siKecil\bin\Debug\Newtonsoft.Json.xml
+C:\College Project\siKecil\obj\Debug\LoginView.baml
+C:\College Project\siKecil\obj\Debug\MainWindow.baml
+C:\College Project\siKecil\obj\Debug\ProfileView.baml
+C:\College Project\siKecil\obj\Debug\SignupView.baml
+C:\College Project\siKecil\obj\Debug\siKecil.g.resources
+C:\College Project\siKecil\obj\Debug\siKecil.Properties.Resources.resources
+C:\College Project\siKecil\obj\Debug\siKecil.csproj.GenerateResource.cache
+C:\College Project\siKecil\obj\Debug\siKecil.csproj.CoreCompileInputs.cache
+C:\College Project\siKecil\obj\Debug\siKecil.csproj.CopyComplete
+C:\College Project\siKecil\obj\Debug\siKecil.exe
+C:\College Project\siKecil\obj\Debug\siKecil.pdb
+D:\nadia\PBO\siKecil-main\siKecil-main\bin\Debug\siKecil.exe.config
+D:\nadia\PBO\siKecil-main\siKecil-main\bin\Debug\siKecil.exe
+D:\nadia\PBO\siKecil-main\siKecil-main\bin\Debug\siKecil.pdb
+D:\nadia\PBO\siKecil-main\siKecil-main\bin\Debug\Newtonsoft.Json.dll
+D:\nadia\PBO\siKecil-main\siKecil-main\bin\Debug\Newtonsoft.Json.xml
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.csproj.AssemblyReference.cache
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\LoginView.g.cs
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\MainWindow.g.cs
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\ProfileView.g.cs
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\SignupView.g.cs
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\App.g.cs
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil_MarkupCompile.cache
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil_MarkupCompile.lref
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\LoginView.baml
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\MainWindow.baml
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\ProfileView.baml
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\SignupView.baml
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.g.resources
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.Properties.Resources.resources
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.csproj.GenerateResource.cache
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.csproj.CoreCompileInputs.cache
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.csproj.CopyComplete
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.exe
+D:\nadia\PBO\siKecil-main\siKecil-main\obj\Debug\siKecil.pdb
